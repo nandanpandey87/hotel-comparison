@@ -1,0 +1,67 @@
+[
+    {
+        "hotelName": "  Capital O 16115 Hotel Solitaire",
+        "hotelId": "200001",
+
+        "vendor1": "Oyo.com",
+        "price1": "3031",
+
+        "price2": "NA",
+        "vendor2": "Booking.com",
+
+        "price3": "NA",
+        "vendor3": "makemytrip",
+
+        "price4": "2078",
+        "vendor4": "Agoda.com"
+    },
+    {
+        "hotelName": "  Effotel by Sayaji",
+        "hotelId": "200002",
+
+        "vendor1": "Oyo.com",
+        "price1": "NA",
+
+        "price2": "3380",
+        "vendor2": "Booking.com",
+
+        "price3": "3115",
+        "vendor3": "makemytrip",
+
+        "price4": "3380",
+        "vendor4": "Agoda.com"
+    },
+    {
+        "hotelName": "  Sayaji Indore",
+        "hotelId": "200003",
+
+        "vendor1": "Oyo.com",
+        "price1": "NA",
+
+        "price2": "4390",
+        "vendor2": "Booking.com",
+
+        "price3": "NA",
+        "vendor3": "makemytrip",
+
+        "price4": "4390",
+        "vendor4": "Agoda.com"
+    },
+    {
+        "hotelName": "  Fairfield By Marriott Indore",
+        "hotelId": "200004",
+
+        "vendor1": "Oyo.com",
+        "price1": "NA",
+
+        "price2": "3471",
+        "vendor2": "Booking.com",
+
+        "price3": "3471",
+        "vendor3": "makemytrip",
+
+        "price4": "3471",
+        "vendor4": "Agoda.com"
+    }
+
+]

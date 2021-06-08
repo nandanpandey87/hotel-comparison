@@ -1,0 +1,66 @@
+[
+  {
+    "hotelName": "  Country Inn & Suites by Radisson Kota",
+    "hotelId": "100001",
+
+    "vendor1": "Oyo.com",
+    "price1": "NA",
+
+    "price2": "4800",
+    "vendor2": "Booking.com",
+
+    "price3": "3696",
+    "vendor3": "makemytrip",
+
+    "price4": "4788",
+    "vendor4": "Agoda.com"
+  },
+  {
+    "hotelName": "  Capital O 991 Hotel Bharat",
+    "hotelId": "100002",
+
+    "vendor1": "Oyo.com",
+    "price1": "1768",
+
+    "price2": "1678",
+    "vendor2": "Booking.com",
+
+    "price3": "1188",
+    "vendor3": "makemytrip",
+
+    "price4": "1212",
+    "vendor4": "Agoda.com"
+  },
+  {
+    "hotelName": "  WelcomHeritage Umed Bhawan Palace",
+    "hotelId": "100003",
+
+    "vendor1": "Oyo.com",
+    "price1": "NA",
+
+    "price2": "NA",
+    "vendor2": "Booking.com",
+
+    "price3": "4760",
+    "vendor3": "makemytrip",
+
+    "price4": "4138",
+    "vendor4": "Agoda.com"
+  },
+  {
+    "hotelName": "  Hotel Rockland",
+    "hotelId": "100004",
+
+    "vendor1": "Oyo.com",
+    "price1": "NA",
+
+    "price2": "2351",
+    "vendor2": "Booking.com",
+
+    "price3": "1684",
+    "vendor3": "makemytrip",
+
+    "price4": "2351",
+    "vendor4": "Agoda.com"
+  }
+]
